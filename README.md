@@ -4,6 +4,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
+<p align="center">
+  <img src="assets/orbital_rotation.gif" alt="QuantumDrift 3D Orbit Spinning Telemetry" width="620px"/>
+</p>
+
 QuantumDrift-RL is an autonomous astrodynamics and deep reinforcement learning platform that executes continuous **Low-Thrust Impulsive Trajectory Optimization** to evade cascading orbital debris clouds in Low-Earth Orbit (LEO) while strictly minimizing satellite propellant expenditure ($\Delta V$).
 
 ---
